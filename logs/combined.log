@@ -1,0 +1,126 @@
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 20:57:30'
+}
+{
+  message: 'WhatsApp Marketing Platform server running on port 3001',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 20:57:30'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 20:57:30'
+}
+{
+  message: 'SIGINT received, shutting down gracefully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:00:25'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:03:53'
+}
+{
+  message: 'WhatsApp Marketing Platform server running on port 3001',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:03:53'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:03:53'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:06:25'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:10:00'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:25:32'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:27:34'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:29:27'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:40:05'
+}
+{
+  message: 'WhatsApp Marketing Platform server running on port 3001',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:40:05'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:40:05'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:41:54'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:45:13'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:50:03'
+}
+{
+  message: 'Connected to MongoDB successfully',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:54:30'
+}
+{
+  message: 'WhatsApp Marketing Platform server running on port 3001',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:54:30'
+}
+{
+  message: 'Environment: development',
+  level: 'info',
+  service: 'whatsapp-marketing-platform',
+  timestamp: '2025-09-15 21:54:30'
+}

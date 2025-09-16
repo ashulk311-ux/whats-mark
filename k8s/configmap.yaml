@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: whatsapp-marketing-config
+  namespace: whatsapp-marketing
+data:
+  NODE_ENV: "production"
+  PORT: "3000"
+  API_VERSION: "v1"
+  LOG_LEVEL: "info"
+  RATE_LIMIT_WINDOW_MS: "900000"
+  RATE_LIMIT_MAX_REQUESTS: "100"
+  BCRYPT_ROUNDS: "12"
+  MAX_FILE_SIZE: "10485760"
+  UPLOAD_PATH: "./uploads"

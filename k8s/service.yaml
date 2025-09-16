@@ -1,0 +1,42 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: whatsapp-marketing-service
+  namespace: whatsapp-marketing
+  labels:
+    app: whatsapp-marketing-app
+spec:
+  selector:
+    app: whatsapp-marketing-app
+  ports:
+  - name: http
+    port: 80
+    targetPort: 3000
+    protocol: TCP
+  type: ClusterIP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongo-service
+  namespace: whatsapp-marketing
+spec:
+  selector:
+    app: mongo
+  ports:
+  - port: 27017
+    targetPort: 27017
+  type: ClusterIP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis-service
+  namespace: whatsapp-marketing
+spec:
+  selector:
+    app: redis
+  ports:
+  - port: 6379
+    targetPort: 6379
+  type: ClusterIP
